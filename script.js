@@ -38,4 +38,4 @@ movieContainer.innerHTML += `
 <img src="${TodaysMovie.img}" alt="movie picture" />
 <h2>${TodaysMovie.name}</h2>
 </div>
-`;
+`;  
