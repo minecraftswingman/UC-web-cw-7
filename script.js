@@ -34,6 +34,7 @@ let TodaysMovie = movies[randommovie];
 
 movieContainer.innerHTML += `
 <div class="movie">
+<h1>Todays Movie</h1>
 <img src="${TodaysMovie.img}" alt="movie picture" />
 <h2>${TodaysMovie.name}</h2>
 </div>
